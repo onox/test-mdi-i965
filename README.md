@@ -7,3 +7,4 @@ Required GL extensions:
 
   - ARB_shader_draw_parameters
   - ARB_direct_state_access
+  - ARB_multi_draw_indirect
