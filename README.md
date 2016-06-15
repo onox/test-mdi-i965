@@ -5,5 +5,5 @@ Actual colors: red and yellow
 
 Required GL extensions:
 
-    - ARB\_shader\_draw\_parameters
-    - ARB\_direct\_state\_access
+  - ARB_shader_draw_parameters
+  - ARB_direct_state_access
