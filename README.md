@@ -1,7 +1,7 @@
 Draws two triangles.
 
 Expected colors: blue and blue
-Actual colors: red and yellow
+Actual colors (on IVB with Mesa): red and yellow
 
 Required GL extensions:
 
