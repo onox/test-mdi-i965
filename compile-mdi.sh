@@ -1,1 +1,1 @@
-g++ mdi.cpp -o mdi -std=c++11 `pkg-config --libs --cflags glfw3` `pkg-config --libs --cflags glew`
+g++ mdi.cpp -o mdi -std=c++11 `pkg-config --libs --cflags glfw3 glew`
